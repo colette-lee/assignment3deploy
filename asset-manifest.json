@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/assignment3deploy/static/css/main.f3cf30a4.chunk.css",
+    "main.js": "/assignment3deploy/static/js/main.5edd7d4c.chunk.js",
+    "main.js.map": "/assignment3deploy/static/js/main.5edd7d4c.chunk.js.map",
+    "runtime-main.js": "/assignment3deploy/static/js/runtime-main.91306537.js",
+    "runtime-main.js.map": "/assignment3deploy/static/js/runtime-main.91306537.js.map",
+    "static/js/2.23b6cb0d.chunk.js": "/assignment3deploy/static/js/2.23b6cb0d.chunk.js",
+    "static/js/2.23b6cb0d.chunk.js.map": "/assignment3deploy/static/js/2.23b6cb0d.chunk.js.map",
+    "static/js/3.8a433a84.chunk.js": "/assignment3deploy/static/js/3.8a433a84.chunk.js",
+    "static/js/3.8a433a84.chunk.js.map": "/assignment3deploy/static/js/3.8a433a84.chunk.js.map",
+    "index.html": "/assignment3deploy/index.html",
+    "static/css/main.f3cf30a4.chunk.css.map": "/assignment3deploy/static/css/main.f3cf30a4.chunk.css.map",
+    "static/js/2.23b6cb0d.chunk.js.LICENSE.txt": "/assignment3deploy/static/js/2.23b6cb0d.chunk.js.LICENSE.txt",
+    "static/media/banned.582bc923.jpeg": "/assignment3deploy/static/media/banned.582bc923.jpeg",
+    "static/media/dead.51140c3a.MOV": "/assignment3deploy/static/media/dead.51140c3a.MOV",
+    "static/media/fight.3c4cd889.mov": "/assignment3deploy/static/media/fight.3c4cd889.mov",
+    "static/media/fryer.935cbdf2.jpeg": "/assignment3deploy/static/media/fryer.935cbdf2.jpeg",
+    "static/media/ice.b59f2ef8.MOV": "/assignment3deploy/static/media/ice.b59f2ef8.MOV",
+    "static/media/labor.eccc78d8.jpeg": "/assignment3deploy/static/media/labor.eccc78d8.jpeg",
+    "static/media/lectures.473fefc5.jpeg": "/assignment3deploy/static/media/lectures.473fefc5.jpeg",
+    "static/media/logo.6ce24c58.svg": "/assignment3deploy/static/media/logo.6ce24c58.svg",
+    "static/media/musicvid.e6b249d1.MOV": "/assignment3deploy/static/media/musicvid.e6b249d1.MOV",
+    "static/media/snow.50969d45.MOV": "/assignment3deploy/static/media/snow.50969d45.MOV",
+    "static/media/sponge.fe94a109.jpg": "/assignment3deploy/static/media/sponge.fe94a109.jpg",
+    "static/media/tradition.ec87bf03.png": "/assignment3deploy/static/media/tradition.ec87bf03.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91306537.js",
+    "static/js/2.23b6cb0d.chunk.js",
+    "static/css/main.f3cf30a4.chunk.css",
+    "static/js/main.5edd7d4c.chunk.js"
+  ]
+}
